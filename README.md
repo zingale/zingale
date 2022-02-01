@@ -1,6 +1,6 @@
 ### Michael Zingale
 
-- 🔭 I’m currently working on algorithms for modeling reactive
+- I’m currently working on algorithms for modeling reactive
   astrophysics flows, applying these to studies of X-ray bursts,
   Type Ia supernovae, stellar convection, and novae.
 
