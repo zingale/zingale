@@ -12,6 +12,9 @@
   on supercomputers (using CPUs or GPUs) and model reacting
   astrophysical flows.
 
+- I also build the [pynucastro](https://github.com/pynucastro/pynucastro) library:
+  a library for exploring nuclear reaction rates.
+  
 - I am also very interested in making teaching resources (especially
   for computational astrophysics) freely available, including:
 
