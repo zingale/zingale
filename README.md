@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Michael Zingale's states](https://github-readme-stats.vercel.app/api?username=zingale&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Michael Zingale's stats](https://github-readme-stats.vercel.app/api?username=zingale&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
